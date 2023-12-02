@@ -78,20 +78,6 @@ The audio contained a male voice which said **"This coffee sucks"** in a angry t
 ![](images/livevoice2.PNG?raw=true)
 <br>
 
-### As you can see that the model has predicted the male voice and emotion very accurately in the image above.
-
-## NOTE: If you are using the model directly and want to decode the output ranging from 0 to 9 then the following list will help you.
-
-0 - female_angry <br>
-1 - female_calm <br>
-2 - female_fearful <br>
-3 - female_happy <br>
-4 - female_sad <br>
-5 - male_angry <br>
-6 - male_calm <br>
-7 - male_fearful <br>
-8 - male_happy <br>
-9 - male_sad <br>
 
 ## Conclusion
 Building the model was a challenging task as it involved lot of trail and error methods, tuning etc. The model is very well trained to distinguish between male and female voices and it distinguishes with 100% accuracy. The model was tuned to detect emotions with more than 70% accuracy. Accuracy can be increased by including more audio files for training.
